@@ -1,7 +1,7 @@
 # taskTwoITI
 this is the second task for source control course.
 
-![image](./images/2024-04-25 031027.png)
+![image](./images/Screenshot%202024-04-25%20031027.png)
 
 
 ### what is the query optimizer?
