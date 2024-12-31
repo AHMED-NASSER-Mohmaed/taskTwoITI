@@ -8,11 +8,18 @@
 Use `git branch -d test` to delete a local branch.  
 Use `git branch -D test` to force delete a local branch.
 
-### what is the query optimizer?
+### To list tags locally:
+Use `git tag` to list tags locally.
 
-The query optimizer is a critical component of a database management system (DBMS) that determines the most efficient way to execute a database query. Its primary goal is to minimize the execution time and resource usage of a query while ensuring accurate results.
+### To delete a tag remotely:
+Use `git push origin --delete v1.4` or `git push origin :refs/tags/v1.4` to delete a tag remotely.
 
-### what is the seo?
+### To delete a tag locally:
+Use `git tag -d v1.4` to delete a tag locally.
 
-SEO stands for Search Engine Optimization, which is the practice of enhancing a website's visibility in search engine results pages (SERPs). The goal of SEO is to increase organic (non-paid) traffic to a website by improving its ranking for relevant keywords and phrases.
+### What is a pull request?
+is a feature in version control systems like Git that allows developers to propose changes to a codebase 
+and collaborate on those changes before they are merged into the main branch (or another target branch).
+Pull requests are widely used in platforms like GitHub, GitLab, and Bitbucket to facilitate code review, discussion, and collaboration.
+
 
