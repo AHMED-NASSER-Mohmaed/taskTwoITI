@@ -1,8 +1,12 @@
 # taskTwoITI
-this is the second task for source control course.
+### this is the second task for source control course.
 
 ![image](./images/Screenshot%202024-04-25%20031027.png)
 
+
+### To delete a local branch:
+Use `git branch -d test` to delete a local branch.  
+Use `git branch -D test` to force delete a local branch.
 
 ### what is the query optimizer?
 
